@@ -1,10 +1,10 @@
 :root{
-    --mainColor:#000000;
+    --mainColor:#eaeaea;
     --secondaryColor:#fff;
 
     --borderColor:#c1c1c1;
 
-    --mainText:rgb(44, 207, 4);
+    --mainText:black;
     --secondaryText:#4b5156;
 
     --themeDotBorder: black;
