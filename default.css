@@ -331,6 +331,9 @@ h6 {font-size: 16px;}
 
 .contact-links{
     text-align: center;
+    width: 100%;
+    display: block;
+    float:left;
 }
 
 #coin{
